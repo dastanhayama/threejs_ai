@@ -1,5 +1,11 @@
 # Build an AI-Powered website using React and Three js
 
+## Screenshots
+![screencapture-localhost-5173-2024-05-08-20_59_49](https://github.com/dastanhayama/threejs_ai/assets/126918345/66dd5736-e03a-4f39-86fb-82f836281785)
+![screencapture-localhost-5173-2024-05-08-21_00_07](https://github.com/dastanhayama/threejs_ai/assets/126918345/cb134e5e-dff8-4189-865b-53493a044913)
+![screencapture-localhost-5173-2024-05-08-21_00_23](https://github.com/dastanhayama/threejs_ai/assets/126918345/18018c35-9ceb-4420-95b6-e8869597eb99)
+
+
 ## Description
 
 Welcome to the repository, a unique and interactive web application developed with React, Vite, and Express. This project seamlessly integrates a variety of cutting-edge technologies, including Three.js, Tailwind CSS, Framer Motion, and React Three Fiber. The application not only showcases a visually stunning experience but also offers exciting features such as DALL-E integration for generating and utilizing photos, custom color and file support, and the ability to download the resulting T-shirt model. With a focus on responsiveness, this project ensures a seamless user experience across various devices.
